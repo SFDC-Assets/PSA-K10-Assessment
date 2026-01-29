@@ -1,0 +1,28 @@
+{
+  "orgName": "Salesforce Global Public Sector Design Systems",
+  "country": "au",
+  "adminEmail": "eschweitzer@salesforce.com",
+  "edition": "Enterprise",
+  "features": [
+    "EnableSetPasswordInApi",
+    "Interaction",
+    "Assessments",
+    "OmniStudioDesigner",
+    "OmniStudioRuntime"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "emailAdministrationSettings": {
+      "enableEnhancedEmailEnabled": true
+    },
+    "industriesSettings": {
+      "enableIndustriesAssessment": true,
+      "enableDiscoveryFrameworkMetadata": true
+    }
+  }
+}

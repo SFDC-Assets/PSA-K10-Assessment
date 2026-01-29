@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>K10+ - Question 6</description>
+        <isActive>true</isActive>
+        <name>k10p_item6</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>In the past 4 weeks, how often did you feel so restless you could not sit still?</questionText>
+        <responseValues>None of the time
+A little of the time
+Some of the time
+Most of the time
+All of the time</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>k10p_item6</developerName>
+    <name>k10p_item6</name>
+    <questionCategory>K10</questionCategory>
+</AssessmentQuestion>

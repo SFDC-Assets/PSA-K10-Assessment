@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <helpText>Score under 20 are likely to be well. Score 20-24 are likely to have a mild mental disorder. Score 25-29 are likely to have moderate mental disorder. Score 30-50 are likely to have a severe mental disorder. Score over 50 means not all responses are stated</helpText>
+        <isActive>true</isActive>
+        <name>k10p_score</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>K10 Assessment Score</questionText>
+        <status>Active</status>
+        <versionNumber>2</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Formula</dataType>
+    <developerName>k10p_score</developerName>
+    <formulaResponseDataType>Integer</formulaResponseDataType>
+    <name>k10p_score</name>
+    <questionCategory>K10</questionCategory>
+</AssessmentQuestion>
