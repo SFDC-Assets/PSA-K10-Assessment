@@ -94,9 +94,9 @@ The K10 questions and score calculations are based on the [Primary Mental Health
 ## Acknowledgements
 
 This Accelerator was developed through the collaborative efforts of the following team members:
-- [Brenda Wai](https://github.com/bwai_sfemu) - Lead Builder and Project Lead
-- [Hayley Morris](https://github.com/hmorris_sfemu) - Technical Builder and Architect
-- [Emmanuel Schweitzer](https://github.com/eschweitzer_sfemu) - PMO Guide and Project Management
+- [Brenda Wai](https://github.com/bwhhwja) - Lead Builder and Project Lead
+- Hayley Morris - Technical Builder and Architect
+- [Emmanuel Schweitzer](https://github.com/eschweitzer78) - PMO Guide and Project Management
 
 Special thanks to the broader GPS Accelerator community for their guidance and support throughout the development process, Chris Tye for being our Executive Sponsor and advocate for this project, and Geovanna Pazmino for helping us test the package.
 
