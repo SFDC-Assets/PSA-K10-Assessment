@@ -22,7 +22,7 @@ The questions and assessment are created in English only.
 ## Key Assets
 
 This Accelerator includes the following assets:
-* An **unmanaged package** ([Linked here](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tQE00000JD2fNYAT)) that includes:
+* An [**unmanaged package**](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tQE00000JD2fNYAT) that includes:
     * Assessment Question Config (x11) - the 10 assessment questions and 1 scoring question
     * Omni Script (x1) - K10 Assessment
 
