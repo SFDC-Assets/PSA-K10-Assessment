@@ -4,7 +4,7 @@
 
  [Required. Show overview of the Accelerator. This should match the approved content used on the Accelerator listing.]
 
-Accelerator Listing: [insert url to the public listing on the Accelerator site](https://gpsaccelerators.developer.salesforce.com/) (tbd once published)
+Accelerator Listing: [https://sfdc.co/k10](https://sfdc.co/k10).
 
 
 ## Description
