@@ -2,10 +2,9 @@
 
 # Kessler Psychological Distress Scale (K10) Assessment
 
- [Required. Show overview of the Accelerator. This should match the approved content used on the Accelerator listing.]
+**Use OmniScript to capture and score Kessler Psychological Distress Scale (K10) Assessment responses.**
 
-Accelerator Listing: [https://sfdc.co/k10](https://sfdc.co/k10).
-
+[**Accelerator Listing**](https://gpsaccelerators.developer.salesforce.com/accelerator/a0wDo000001C3AwIAK/k10-assessment)
 
 ## Description
 
